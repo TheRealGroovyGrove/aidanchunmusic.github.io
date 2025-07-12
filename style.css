@@ -14,31 +14,26 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-style: solid;
 }
 
 header h1 {
   margin: 0;
   font-size: 1.5rem;
-  border-style: solid;
 }
 
 nav ul {
   list-style: none;
   display: flex;
   gap: 1rem;
-  border-style: solid;
 }
 
 nav a {
   color: #fff;
   text-decoration: none;
-  border-style: solid;
 }
 
 nav a:hover {
   text-decoration: underline;
-  border-style: solid;
 }
 
 .hero {
@@ -51,7 +46,6 @@ nav a:hover {
 .hero h2 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  border-style: solid;
 }
 
 .hero .btn {
@@ -70,7 +64,6 @@ footer {
   background: #222;
   color: #fff;
   margin-top: 2rem;
-  border-style: solid;
 }
 
 .hero-image {
